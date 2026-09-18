@@ -5,7 +5,7 @@ Hi there 👋 Welcome to My GitHub Profile!
 - 👨‍💻 I'm Umair Raizan, a Software Engineer and Data Analyst with hands-on experience building APIs, backend systems, and AI-driven solutions.
 - 🎓 MSc candidate in AI and Data Science at Middlesex University Dubai, and graduated with First Class Honors in Software Engineering from APIIT Sri Lanka (affiliated with Staffordshire University, England).
 - 🛠️ Experienced across Python, Go, SQL, and cloud/backend architecture, with a growing focus on Generative AI and agentic systems.
-- ✈️ Passionate about applying data and AI to real business problems, with a particular interest in aviation and travel.
+- ✈️ Passionate about applying data and AI to real business problems.
 
 ## 🔧 Tech Stack
 
